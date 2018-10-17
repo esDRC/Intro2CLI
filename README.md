@@ -1,2 +1,2 @@
 # Intro2CLI
-material for introduction to the Unix Command Line workshops.
+Material for introduction to the _Unix Command Line_ workshops.
